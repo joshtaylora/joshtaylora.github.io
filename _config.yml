@@ -29,7 +29,7 @@ url: "https://joshtaylora.github.io"
 github_username:  joshtaylora
 
 # Build settings
-theme: minima
+theme: midnight
 plugins:
   - jekyll-feed
 
